@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - foamtree.qmd
+      - 3d-voronoi-treemap.qmd
 
 format:
   html:
