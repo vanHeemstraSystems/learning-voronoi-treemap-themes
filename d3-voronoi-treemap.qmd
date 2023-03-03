@@ -1,5 +1,5 @@
 ---
-title: "FoamTree"
+title: "D3 Voronoi Treemap"
 ---
 
 About this site
