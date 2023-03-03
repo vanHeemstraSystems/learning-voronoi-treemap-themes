@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "d3-voronoi-treemap.html",
+    "href": "d3-voronoi-treemap.html",
+    "title": "D3 Voronoi Treemap",
+    "section": "",
+    "text": "About this site\nWe base our Theme: Master FoamTree on Planning a Minimum Viable Nothing (MVN)."
+  },
+  {
+    "objectID": "d3-voronoi-treemap.html#find-the-opportunities.",
+    "href": "d3-voronoi-treemap.html#find-the-opportunities.",
+    "title": "D3 Voronoi Treemap",
+    "section": "2. Find the Opportunities.",
+    "text": "2. Find the Opportunities.\nSee Learning Voronoi Treemap - FoamTree\n\na) Map out the User Journey(s).\n\n- Identify the Users (Actors) / Persona.\n\n\n- Identify the Story Ending (End Goal)\n\n\n- Identify all Actions the User must take to meet the End Goal.\n\n\n\nb) Create a “Pain and Gain” Map for each Action.\n\n- Write down the Action the User completes when using the Product (i.e., good or service).\n\n\n- Write down the Pain Points for each Action.\n\n\n- Write down the Gains for each Action.\n\n\n\nc) Summarize the Pains and Gains into Opportunity Statements.\n\n- Use “How might we” Statements or a similar method to summarize the Pains and Gains you have identified."
+  },
+  {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
     "title": "Learning Voronoi Treemap - Themes",
@@ -19,19 +33,5 @@
     "title": "Learning Voronoi Treemap - Themes",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster FoamTree"
-  },
-  {
-    "objectID": "foamtree.html",
-    "href": "foamtree.html",
-    "title": "FoamTree",
-    "section": "",
-    "text": "About this site\nWe base our Theme: Master FoamTree on Planning a Minimum Viable Nothing (MVN)."
-  },
-  {
-    "objectID": "foamtree.html#find-the-opportunities.",
-    "href": "foamtree.html#find-the-opportunities.",
-    "title": "FoamTree",
-    "section": "2. Find the Opportunities.",
-    "text": "2. Find the Opportunities.\nSee Learning Voronoi Treemap - FoamTree\n\na) Map out the User Journey(s).\n\n- Identify the Users (Actors) / Persona.\n\n\n- Identify the Story Ending (End Goal)\n\n\n- Identify all Actions the User must take to meet the End Goal.\n\n\n\nb) Create a “Pain and Gain” Map for each Action.\n\n- Write down the Action the User completes when using the Product (i.e., good or service).\n\n\n- Write down the Pain Points for each Action.\n\n\n- Write down the Gains for each Action.\n\n\n\nc) Summarize the Pains and Gains into Opportunity Statements.\n\n- Use “How might we” Statements or a similar method to summarize the Pains and Gains you have identified."
   }
 ]
