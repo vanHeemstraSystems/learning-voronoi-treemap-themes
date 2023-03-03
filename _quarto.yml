@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - 3d-voronoi-treemap.qmd
+      - d3-voronoi-treemap.qmd
 
 format:
   html:
