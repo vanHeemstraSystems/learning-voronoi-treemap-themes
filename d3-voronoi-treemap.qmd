@@ -8,7 +8,7 @@ We base our Theme: Master FoamTree on Planning a [Minimum Viable Nothing (MVN)](
 
 ## 2. Find the **Opportunities**.
 
-See [Learning Voronoi Treemap - D3 Voronoi Treemap](https://vanheemstrasystems.github.io/learning-voronoi-treemap-d3-voronoi-treemap/)
+See [Learning - D3 Voronoi Treemap](https://vanheemstrasystems.github.io/learning-d3-voronoi-treemap/)
 
 ### a) Map out the **User Journey(s)**.
 
