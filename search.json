@@ -14,11 +14,11 @@
     "text": "2. Find the Opportunities.\nSee Learning - D3 Voronoi Treemap\n\na) Map out the User Journey(s).\n\n- Identify the Users (Actors) / Persona.\n\n\n- Identify the Story Ending (End Goal)\n\n\n- Identify all Actions the User must take to meet the End Goal.\n\n\n\nb) Create a “Pain and Gain” Map for each Action.\n\n- Write down the Action the User completes when using the Product (i.e., good or service).\n\n\n- Write down the Pain Points for each Action.\n\n\n- Write down the Gains for each Action.\n\n\n\nc) Summarize the Pains and Gains into Opportunity Statements.\n\n- Use “How might we” Statements or a similar method to summarize the Pains and Gains you have identified."
   },
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Learning Voronoi Treemap - Themes",
     "section": "",
-    "text": "Table of contents\n\nLearning Voronoi Treemap - Themes"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster FoamTree"
   },
   {
     "objectID": "about.html",
@@ -28,10 +28,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning Voronoi Treemap - Themes",
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster FoamTree"
+    "text": "Table of contents\n\nLearning Voronoi Treemap - Themes"
   }
 ]
